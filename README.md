@@ -15,6 +15,9 @@ all other settings can be edited in D3D8.INI
 
 Default for FPS is 60 you can change it in d3d8.ini. be aware that going above 60fps in this game may cause issues.
 
+if you would like to leave feedback or submit a bug please use the form provided:
+
+https://docs.google.com/forms/d/e/1FAIpQLSf2w6-yj54YfVaPGySRsGUtZfey0OxBOpS_Y7iacnMOmGPqZQ/viewform?usp=sharing
 
 brought to you by Fix Enhancers 
 
