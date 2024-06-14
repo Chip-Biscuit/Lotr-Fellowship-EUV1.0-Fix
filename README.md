@@ -1,5 +1,9 @@
 # Lord of the Rings - Fellowship - Europe - Version 1.0 Fix:
 
+This is the Lord of the fellowship fix d3d8 wrapper which is based from 13AG d3d8.dll wrapper
+
+https://github.com/ThirteenAG/d3d8-wrapper
+
 simply put the D3D8.DLL and D3D8.INI and FellowshipLauncher.exe from this fix into your game folder next to the game exe and your good to go, use FellowshipLauncher to launch and play the game instead of using Fellowship.exe, if you wish 
 you can make a shortcut of FellowshipLauncher.exe on your desktop. 
 
