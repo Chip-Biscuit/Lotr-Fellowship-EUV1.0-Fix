@@ -4,6 +4,8 @@ This is the Lord of the fellowship fix d3d8 wrapper which is based from 13AG d3d
 
 https://github.com/ThirteenAG/d3d8-wrapper
 
+The launcher fixes the problem with the game freezing on a blackscreen on startup.
+
 simply put the D3D8.DLL and D3D8.INI and FellowshipLauncher.exe from this fix into your game folder next to the game exe and your good to go, use FellowshipLauncher to launch and play the game instead of using Fellowship.exe, if you wish 
 you can make a shortcut of FellowshipLauncher.exe on your desktop. 
 
