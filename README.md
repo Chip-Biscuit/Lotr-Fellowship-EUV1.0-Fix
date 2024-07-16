@@ -31,6 +31,4 @@ Testers:
 
 MrDoomStar
 
-This is the Lord of the fellowship fix d3d8 wrapper which is based from 13AG d3d8.dll wrapper
-
-https://github.com/ThirteenAG/d3d8-wrapper
+credit to Elisha Riedlinger for the base wrapper and 13 AG.
